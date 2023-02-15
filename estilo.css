@@ -1,0 +1,21 @@
+body,html{
+    margin: 0px;
+    
+}
+
+
+.conteudo{
+    display:flex;
+    flex-direction: row;
+    background-color: silver;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 10px;
+}
